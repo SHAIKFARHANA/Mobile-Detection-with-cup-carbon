@@ -1,0 +1,11 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:3
+device_longitude:-4.496068954467773
+device_latitude:48.38870542433572
+device_elevation:0.0
+device_radius:0.0
+device_hide:4
+device_draw_battery:false
+device_sensor_unit_radius:20.0

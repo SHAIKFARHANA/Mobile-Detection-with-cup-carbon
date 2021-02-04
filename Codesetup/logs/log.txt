@@ -1,0 +1,806 @@
+===========================
+Initialization
+======================================================
+START SIMULATION
+======================================================
+
+----------------------------------------------------------------------------
+Time : 0.0
+Min (milliseconds) : 0.0
+S10 Starts the loop section.
+S10 is waiting for data ...
+S11 Starts the loop section.
+S11 is waiting for data ...
+S12 Starts the loop section.
+S12 is waiting for data ...
+S13 Starts the loop section.
+S13 is waiting for data ...
+S18 Starts the loop section.
+S18 is waiting for data ...
+S5 Starts the loop section.
+S5 CPRINT [cprint]
+S5 READ SENSOR: 0
+S5 is writing the message : "B" in its buffer.
+S6 Starts the loop section.
+S6 READ SENSOR: 0
+S6 is writing the message : "B" in its buffer.
+S8 Starts the loop section.
+S8 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 8.333333333333334E-4
+Min (milliseconds) : 8.333333333333334E-4
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "B".
+S5 has finished sending the message : "B" to the node: 
+S12 (radio: radio1) is receiving the message : "B" in its buffer.
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "B".
+S6 has finished sending the message : "B" to the node: 
+S8 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.003970666666666667
+Min (milliseconds) : 0.0031373333333333336
+S5 (radio: radio1) is receiving the message : "" in its buffer.
+S6 (radio: radio1) is receiving the message : "" in its buffer.
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "B" and puts it in x
+S12 is writing the message : "B" in its buffer.
+S8 Buffer available, exit waiting.
+S8 READ
+S8 is reading from its buffer "B" and puts it in x
+S8 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.004130666666666666
+Min (milliseconds) : 1.5999999999999999E-4
+S5 starts delaying for 1000.0 milliseconds
+S6 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.004803999999999999
+Min (milliseconds) : 6.733333333333334E-4
+S12 is listening to the channel
+S12 the channel is free.
+S12 starts sending the message : "B".
+S12 has finished sending the message : "B" to the node: 
+S13 (radio: radio1) is receiving the message : "B" in its buffer.
+S8 is listening to the channel
+S8 the channel is free.
+S8 starts sending the message : "B".
+S8 has finished sending the message : "B" to the node: 
+S9 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.007941333333333333
+Min (milliseconds) : 0.0031373333333333336
+S12 (radio: radio1) is receiving the message : "" in its buffer.
+S8 (radio: radio1) is receiving the message : "" in its buffer.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "B" and puts it in x
+S13 is writing the message : "B" in its buffer.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "B" and puts it in x
+S9 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.008101333333333334
+Min (milliseconds) : 1.5999999999999999E-4
+S12 Starts the loop section.
+S12 is waiting for data ...
+S8 Starts the loop section.
+S8 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.008774666666666667
+Min (milliseconds) : 6.733333333333334E-4
+S13 is listening to the channel
+S13 the channel is free.
+S13 starts sending the message : "B".
+S13 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "B".
+S9 has finished sending the message : "B" to the node: 
+S10 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.011912
+Min (milliseconds) : 0.0031373333333333336
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S9 (radio: radio1) is receiving the message : "" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "B" and puts it in x
+S10 is writing the message : "B" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.012072000000000001
+Min (milliseconds) : 1.5999999999999999E-4
+S13 Starts the loop section.
+S13 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.012745333333333334
+Min (milliseconds) : 6.733333333333334E-4
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "B".
+S10 has finished sending the message : "B" to the node: 
+S11 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.015882666666666666
+Min (milliseconds) : 0.0031373333333333336
+S10 (radio: radio1) is receiving the message : "" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "B" and puts it in x
+S11 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.016042666666666667
+Min (milliseconds) : 1.5999999999999999E-4
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.016716
+Min (milliseconds) : 6.733333333333334E-4
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "B".
+S11 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.019853333333333334
+Min (milliseconds) : 0.0031373333333333336
+S11 (radio: radio1) is receiving the message : "" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.020013333333333334
+Min (milliseconds) : 1.5999999999999999E-4
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.9999999999999999
+Min (milliseconds) : 0.9799866666666666
+M15 DEVICE MOVING
+M16 DEVICE MOVING
+
+----------------------------------------------------------------------------
+Time : 1.0041306666666667
+Min (milliseconds) : 0.004130666666666727
+S5 has finished the delay.
+S6 has finished the delay.
+
+S5 Starts the loop section.
+S5 CPRINT [cprint]
+S5 READ SENSOR: 0
+S5 is writing the message : "B" in its buffer.
+S6 Starts the loop section.
+S6 READ SENSOR: 0
+S6 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.004964
+Min (milliseconds) : 8.333333333333334E-4
+S5 starts sending the message : "B".
+S5 has finished sending the message : "B" to the node: 
+S12 (radio: radio1) is receiving the message : "B" in its buffer.
+S6 starts sending the message : "B".
+S6 has finished sending the message : "B" to the node: 
+S8 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0081013333333333
+Min (milliseconds) : 0.0031373333333333336
+S5 (radio: radio1) is receiving the message : "" in its buffer.
+S6 (radio: radio1) is receiving the message : "" in its buffer.
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "B" and puts it in x
+S12 is writing the message : "B" in its buffer.
+S8 Buffer available, exit waiting.
+S8 READ
+S8 is reading from its buffer "B" and puts it in x
+S8 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0082613333333332
+Min (milliseconds) : 1.5999999999999999E-4
+S5 starts delaying for 1000.0 milliseconds
+S6 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0089346666666665
+Min (milliseconds) : 6.733333333333334E-4
+S12 starts sending the message : "B".
+S12 has finished sending the message : "B" to the node: 
+S13 (radio: radio1) is receiving the message : "B" in its buffer.
+S8 starts sending the message : "B".
+S8 has finished sending the message : "B" to the node: 
+S9 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0120719999999999
+Min (milliseconds) : 0.0031373333333333336
+S12 (radio: radio1) is receiving the message : "" in its buffer.
+S8 (radio: radio1) is receiving the message : "" in its buffer.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "B" and puts it in x
+S13 is writing the message : "B" in its buffer.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "B" and puts it in x
+S9 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0122319999999998
+Min (milliseconds) : 1.5999999999999999E-4
+S12 Starts the loop section.
+S12 is waiting for data ...
+S8 Starts the loop section.
+S8 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.012905333333333
+Min (milliseconds) : 6.733333333333334E-4
+S13 starts sending the message : "B".
+S13 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+S9 starts sending the message : "B".
+S9 has finished sending the message : "B" to the node: 
+S10 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0160426666666664
+Min (milliseconds) : 0.0031373333333333336
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S9 (radio: radio1) is receiving the message : "" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "B" and puts it in x
+S10 is writing the message : "B" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0162026666666664
+Min (milliseconds) : 1.5999999999999999E-4
+S13 Starts the loop section.
+S13 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0168759999999997
+Min (milliseconds) : 6.733333333333334E-4
+S10 starts sending the message : "B".
+S10 has finished sending the message : "B" to the node: 
+S11 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.020013333333333
+Min (milliseconds) : 0.0031373333333333336
+S10 (radio: radio1) is receiving the message : "" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "B" and puts it in x
+S11 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.020173333333333
+Min (milliseconds) : 1.5999999999999999E-4
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0208466666666662
+Min (milliseconds) : 6.733333333333334E-4
+S11 starts sending the message : "B".
+S11 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0239839999999996
+Min (milliseconds) : 0.0031373333333333336
+S11 (radio: radio1) is receiving the message : "" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0241439999999995
+Min (milliseconds) : 1.5999999999999999E-4
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.9999999999999993
+Min (milliseconds) : 0.9758559999999998
+M15 DEVICE MOVING
+M16 DEVICE MOVING
+
+----------------------------------------------------------------------------
+Time : 2.0082613333333326
+Min (milliseconds) : 0.008261333333333454
+S5 has finished the delay.
+S6 has finished the delay.
+
+S5 Starts the loop section.
+S5 CPRINT [cprint]
+S5 READ SENSOR: 0
+S5 is writing the message : "B" in its buffer.
+S6 Starts the loop section.
+S6 READ SENSOR: 0
+S6 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.009094666666666
+Min (milliseconds) : 8.333333333333334E-4
+S5 starts sending the message : "B".
+S5 has finished sending the message : "B" to the node: 
+S12 (radio: radio1) is receiving the message : "B" in its buffer.
+S6 starts sending the message : "B".
+S6 has finished sending the message : "B" to the node: 
+S8 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0122319999999996
+Min (milliseconds) : 0.0031373333333333336
+S5 (radio: radio1) is receiving the message : "" in its buffer.
+S6 (radio: radio1) is receiving the message : "" in its buffer.
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "B" and puts it in x
+S12 is writing the message : "B" in its buffer.
+S8 Buffer available, exit waiting.
+S8 READ
+S8 is reading from its buffer "B" and puts it in x
+S8 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0123919999999997
+Min (milliseconds) : 1.5999999999999999E-4
+S5 starts delaying for 1000.0 milliseconds
+S6 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.013065333333333
+Min (milliseconds) : 6.733333333333334E-4
+S12 starts sending the message : "B".
+S12 has finished sending the message : "B" to the node: 
+S13 (radio: radio1) is receiving the message : "B" in its buffer.
+S8 starts sending the message : "B".
+S8 has finished sending the message : "B" to the node: 
+S9 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0162026666666666
+Min (milliseconds) : 0.0031373333333333336
+S12 (radio: radio1) is receiving the message : "" in its buffer.
+S8 (radio: radio1) is receiving the message : "" in its buffer.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "B" and puts it in x
+S13 is writing the message : "B" in its buffer.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "B" and puts it in x
+S9 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0163626666666667
+Min (milliseconds) : 1.5999999999999999E-4
+S12 Starts the loop section.
+S12 is waiting for data ...
+S8 Starts the loop section.
+S8 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.017036
+Min (milliseconds) : 6.733333333333334E-4
+S13 starts sending the message : "B".
+S13 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+S9 starts sending the message : "B".
+S9 has finished sending the message : "B" to the node: 
+S10 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0201733333333336
+Min (milliseconds) : 0.0031373333333333336
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S9 (radio: radio1) is receiving the message : "" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "B" and puts it in x
+S10 is writing the message : "B" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.0203333333333338
+Min (milliseconds) : 1.5999999999999999E-4
+S13 Starts the loop section.
+S13 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.021006666666667
+Min (milliseconds) : 6.733333333333334E-4
+S10 starts sending the message : "B".
+S10 has finished sending the message : "B" to the node: 
+S11 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0241440000000006
+Min (milliseconds) : 0.0031373333333333336
+S10 (radio: radio1) is receiving the message : "" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "B" and puts it in x
+S11 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0243040000000008
+Min (milliseconds) : 1.5999999999999999E-4
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.024977333333334
+Min (milliseconds) : 6.733333333333334E-4
+S11 starts sending the message : "B".
+S11 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0281146666666676
+Min (milliseconds) : 0.0031373333333333336
+S11 (radio: radio1) is receiving the message : "" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.028274666666668
+Min (milliseconds) : 1.5999999999999999E-4
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.000000000000001
+Min (milliseconds) : 0.9717253333333331
+M15 DEVICE MOVING
+M16 DEVICE MOVING
+
+----------------------------------------------------------------------------
+Time : 3.012392000000001
+Min (milliseconds) : 0.01239200000000018
+S5 has finished the delay.
+S6 has finished the delay.
+
+S5 Starts the loop section.
+S5 CPRINT [cprint]
+S5 READ SENSOR: 0
+S5 is writing the message : "B" in its buffer.
+S6 Starts the loop section.
+S6 READ SENSOR: 0
+S6 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0132253333333345
+Min (milliseconds) : 8.333333333333334E-4
+S5 starts sending the message : "B".
+S5 has finished sending the message : "B" to the node: 
+S12 (radio: radio1) is receiving the message : "B" in its buffer.
+S6 starts sending the message : "B".
+S6 has finished sending the message : "B" to the node: 
+S8 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.016362666666668
+Min (milliseconds) : 0.0031373333333333336
+S5 (radio: radio1) is receiving the message : "" in its buffer.
+S6 (radio: radio1) is receiving the message : "" in its buffer.
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "B" and puts it in x
+S12 is writing the message : "B" in its buffer.
+S8 Buffer available, exit waiting.
+S8 READ
+S8 is reading from its buffer "B" and puts it in x
+S8 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0165226666666682
+Min (milliseconds) : 1.5999999999999999E-4
+S5 starts delaying for 1000.0 milliseconds
+S6 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.0171960000000015
+Min (milliseconds) : 6.733333333333334E-4
+S12 starts sending the message : "B".
+S12 has finished sending the message : "B" to the node: 
+S13 (radio: radio1) is receiving the message : "B" in its buffer.
+S8 starts sending the message : "B".
+S8 has finished sending the message : "B" to the node: 
+S9 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.020333333333335
+Min (milliseconds) : 0.0031373333333333336
+S12 (radio: radio1) is receiving the message : "" in its buffer.
+S8 (radio: radio1) is receiving the message : "" in its buffer.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "B" and puts it in x
+S13 is writing the message : "B" in its buffer.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "B" and puts it in x
+S9 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0204933333333353
+Min (milliseconds) : 1.5999999999999999E-4
+S12 Starts the loop section.
+S12 is waiting for data ...
+S8 Starts the loop section.
+S8 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0211666666666686
+Min (milliseconds) : 6.733333333333334E-4
+S13 starts sending the message : "B".
+S13 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+S9 starts sending the message : "B".
+S9 has finished sending the message : "B" to the node: 
+S10 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.024304000000002
+Min (milliseconds) : 0.0031373333333333336
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S9 (radio: radio1) is receiving the message : "" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "B" and puts it in x
+S10 is writing the message : "B" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0244640000000023
+Min (milliseconds) : 1.5999999999999999E-4
+S13 Starts the loop section.
+S13 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0251373333333356
+Min (milliseconds) : 6.733333333333334E-4
+S10 starts sending the message : "B".
+S10 has finished sending the message : "B" to the node: 
+S11 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.028274666666669
+Min (milliseconds) : 0.0031373333333333336
+S10 (radio: radio1) is receiving the message : "" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "B" and puts it in x
+S11 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.0284346666666693
+Min (milliseconds) : 1.5999999999999999E-4
+S10 Starts the loop section.
+S10 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0291080000000026
+Min (milliseconds) : 6.733333333333334E-4
+S11 starts sending the message : "B".
+S11 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.032245333333336
+Min (milliseconds) : 0.0031373333333333336
+S11 (radio: radio1) is receiving the message : "" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.0324053333333363
+Min (milliseconds) : 1.5999999999999999E-4
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.000000000000003
+Min (milliseconds) : 0.9675946666666664
+M15 DEVICE MOVING
+M16 DEVICE MOVING
+
+----------------------------------------------------------------------------
+Time : 4.01652266666667
+Min (milliseconds) : 0.016522666666666908
+S5 has finished the delay.
+S6 has finished the delay.
+
+S5 Starts the loop section.
+S5 CPRINT [cprint]
+S5 READ SENSOR: 0
+S5 is writing the message : "B" in its buffer.
+S6 Starts the loop section.
+S6 READ SENSOR: 0
+S6 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.017356000000003
+Min (milliseconds) : 8.333333333333334E-4
+S5 starts sending the message : "B".
+S5 has finished sending the message : "B" to the node: 
+S12 (radio: radio1) is receiving the message : "B" in its buffer.
+S6 starts sending the message : "B".
+S6 has finished sending the message : "B" to the node: 
+S8 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.020493333333336
+Min (milliseconds) : 0.0031373333333333336
+S5 (radio: radio1) is receiving the message : "" in its buffer.
+S6 (radio: radio1) is receiving the message : "" in its buffer.
+S12 Buffer available, exit waiting.
+S12 READ
+S12 is reading from its buffer "B" and puts it in x
+S12 is writing the message : "B" in its buffer.
+S8 Buffer available, exit waiting.
+S8 READ
+S8 is reading from its buffer "B" and puts it in x
+S8 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.020653333333336
+Min (milliseconds) : 1.5999999999999999E-4
+S5 starts delaying for 1000.0 milliseconds
+S6 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.02132666666667
+Min (milliseconds) : 6.733333333333334E-4
+S12 starts sending the message : "B".
+S12 has finished sending the message : "B" to the node: 
+S13 (radio: radio1) is receiving the message : "B" in its buffer.
+S8 starts sending the message : "B".
+S8 has finished sending the message : "B" to the node: 
+S9 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.024464000000003
+Min (milliseconds) : 0.0031373333333333336
+S12 (radio: radio1) is receiving the message : "" in its buffer.
+S8 (radio: radio1) is receiving the message : "" in its buffer.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "B" and puts it in x
+S13 is writing the message : "B" in its buffer.
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "B" and puts it in x
+S9 is writing the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.024624000000003
+Min (milliseconds) : 1.5999999999999999E-4
+S12 Starts the loop section.
+S12 is waiting for data ...
+S8 Starts the loop section.
+S8 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.025297333333336
+Min (milliseconds) : 6.733333333333334E-4
+S13 starts sending the message : "B".
+S13 has finished sending the message : "B" to the node: 
+S18 (radio: radio1) is receiving the message : "B" in its buffer.
+S9 starts sending the message : "B".
+S9 has finished sending the message : "B" to the node: 
+S10 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.028434666666669
+Min (milliseconds) : 0.0031373333333333336
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S9 (radio: radio1) is receiving the message : "" in its buffer.
+S10 Buffer available, exit waiting.
+S10 READ
+S10 is reading from its buffer "B" and puts it in x
+S10 is writing the message : "B" in its buffer.
+S18 Buffer available, exit waiting.
+S18 READ
+S18 is reading from its buffer "B" and puts it in x
+S18 UNMARK
+S18 Starts the loop section.
+S18 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.028594666666669
+Min (milliseconds) : 1.5999999999999999E-4
+S13 Starts the loop section.
+S13 is waiting for data ...
+S9 Starts the loop section.
+S9 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.029268000000003
+Min (milliseconds) : 6.733333333333334E-4
+S10 starts sending the message : "B".
+S10 has finished sending the message : "B" to the node: 
+S11 (radio: radio1) is receiving the message : "B" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.032405333333336
+Min (milliseconds) : 0.0031373333333333336
+S10 (radio: radio1) is receiving the message : "" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "B" and puts it in x
+S11 is writing the message : "B" in its buffer.
